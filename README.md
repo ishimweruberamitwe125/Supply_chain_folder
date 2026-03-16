@@ -101,21 +101,3 @@ This project demonstrates **optimization systems** that support these goals thro
 
 Research focus: predictive risk and optimization systems for U.S. semiconductor and defense-related manufacturing supply chains; identification of chokepoints; disruption propagation; continuity planning; critical manufacturing resilience and national security.
 
----
-
-## Repository Naming
-
-Suggested repository names that reflect the **purpose of the code** (multi-product EOQ, order aggregation, cost optimization) rather than a generic folder name:
-
-| Option | Rationale |
-|--------|-----------|
-| **multi-product-eoq-tailored-aggregation** | Matches the notebook: multi-product EOQ and tailored aggregation. |
-| **supply-chain-order-aggregation-optimization** | Describes order aggregation and optimization. |
-| **eoq-multi-product-inventory-optimization** | Emphasizes EOQ and multi-product inventory optimization. |
-| **supply-chain-eoq-aggregation-strategies** | Highlights EOQ and aggregation strategies (independent, full, tailored). |
-
----
-
-## License
-
-See [LICENSE](LICENSE) for details.
