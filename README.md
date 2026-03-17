@@ -1,19 +1,27 @@
 # Predictive Risk & Optimization for U.S. Critical Manufacturing Supply Chains
 
-**Supporting industrial stability, continuity planning, and national security through data-driven supply chain resilience.**
+**Data-driven tools to support industrial stability, continuity planning, and national security in critical manufacturing supply chains.**
+
+This repository contains a practical, quantitative framework for **predictive risk and optimization** in U.S. semiconductor and defense-related manufacturing supply chains. It is intended as a **usable reference for supply chain professionals across industries, semiconductor OEMs, tiered suppliers, and policymakers** who want to understand and redesign ordering and inventory strategies for greater resilience.
 
 ---
 
-## Purpose & Significance
+## Purpose & Industrial Significance
 
-This repository contains research and implementation work aimed at developing **predictive risk and optimization systems** for U.S. semiconductor and defense-related manufacturing supply chains. The work is directed at:
+This work sits at the intersection of **operations research**, **predictive risk modeling**, and **critical manufacturing management**. The goal is to move beyond abstract theory and demonstrate how multi-product inventory models can directly inform:
 
-- **Identifying chokepoints** and single points of failure in multi-product, multi-supplier networks  
+- **Identification of chokepoints** and single points of failure in multi-product, multi-supplier networks  
 - **Forecasting the propagation of disruptions** through ordering and inventory dependencies  
-- **Supporting continuity planning** by optimizing order policies and aggregation strategies to reduce cost and vulnerability  
+- **Continuity planning** via optimized order policies and aggregation strategies that reduce cost *and* vulnerability  
 - **Strengthening critical manufacturing resilience**, industrial stability, and national security
 
 Disruptions in semiconductor and defense supply chains have direct implications for U.S. technological competitiveness, military readiness, and economic security. This project contributes to **data-driven decision support** that helps reduce reliance on fragile sourcing patterns and improves the stability of critical manufacturing systems.
+
+From an industry perspective, this repository can be used as a **template and sandbox** for anyone working in supply chain, including semiconductor OEMs and their suppliers, to:
+
+- Translating real demand, cost, and lead-time data into optimization models  
+- Stress-testing existing sourcing policies under hypothetical disruption scenarios  
+- Communicating trade-offs between cost efficiency, redundancy, and continuity to technical and non-technical stakeholders  
 
 ---
 
@@ -98,6 +106,4 @@ This project demonstrates **optimization systems** that support these goals thro
 ## Author
 
 **David Ishimwe Ruberamitwe**  
-
-Research focus: predictive risk and optimization systems for U.S. semiconductor and defense-related manufacturing supply chains; identification of chokepoints; disruption propagation; continuity planning; critical manufacturing resilience and national security.
 
